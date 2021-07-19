@@ -1,0 +1,24 @@
+{
+  "name": "use-immediate-effect",
+  "version": "1.0.0",
+  "description": "Because sometimes you want your effects to run right away",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apearce/use-immediate-effect.git"
+  },
+  "keywords": [
+    "React",
+    "Hooks",
+    "Effects"
+  ],
+  "author": "Alan Pearce <alan.pearce@alttag.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apearce/use-immediate-effect/issues"
+  },
+  "homepage": "https://github.com/apearce/use-immediate-effect#readme"
+}

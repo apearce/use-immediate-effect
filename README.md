@@ -1,2 +1,2 @@
 # use-immediate-effect
-Sometimes you want your effect to run right away
+Because sometimes you want your effects to run right away
