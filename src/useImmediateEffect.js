@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import { useEffect, useRef } from 'react';
 
 function depsDiff(deps1, deps2) {
     return !((Array.isArray(deps1) && Array.isArray(deps2)) &&
