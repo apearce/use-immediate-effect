@@ -19,5 +19,6 @@ function SomeComponent(props) {
             ...
         };
     }, [someDeps]);
+    ...
 }
 ```
